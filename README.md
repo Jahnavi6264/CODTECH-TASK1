@@ -15,7 +15,7 @@
 **Overview of the project**
 
 **Project:**
-**PyCalc - A Simple Python Calculator**
+**Simple Python Calculator**
  
 ![Screenshot 2024-07-16 145356](https://github.com/user-attachments/assets/88f4c6a5-bba3-4243-bdb4-ec708f9c6713)
 
